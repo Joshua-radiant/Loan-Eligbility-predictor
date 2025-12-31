@@ -1,0 +1,201 @@
+Age,Gender,Education,Employment,Income,LoanAmount,Credit_Score,Loan_Status
+59,Female,Graduate,Salaried,129821,76734,821,Approved
+49,Female,Not Graduate,Self-Employed,51395,449587,816,Rejected
+35,Male,Graduate,Salaried,144695,76069,417,Rejected
+28,Female,Not Graduate,Self-Employed,49620,260977,458,Approved
+41,Male,Graduate,Self-Employed,143148,62910,527,Approved
+59,Female,Not Graduate,Salaried,35559,385623,515,Rejected
+39,Male,Graduate,Salaried,108396,131264,314,Approved
+43,Male,Not Graduate,Self-Employed,36732,73275,456,Rejected
+31,Male,Graduate,Salaried,106362,122274,560,Approved
+31,Female,Not Graduate,Salaried,28843,412920,456,Approved
+44,Female,Not Graduate,Salaried,129065,241076,346,Approved
+56,Male,Graduate,Self-Employed,86726,244053,623,Approved
+44,Female,Graduate,Self-Employed,32640,235625,429,Approved
+23,Male,Not Graduate,Salaried,67528,98447,710,Rejected
+42,Male,Graduate,Self-Employed,53413,477745,394,Approved
+22,Female,Not Graduate,Self-Employed,67638,438538,591,Approved
+44,Female,Graduate,Self-Employed,125133,125703,582,Approved
+50,Male,Not Graduate,Self-Employed,121357,388234,368,Approved
+58,Female,Not Graduate,Self-Employed,93859,329404,310,Approved
+22,Female,Not Graduate,Salaried,114657,162581,553,Approved
+41,Male,Not Graduate,Salaried,26023,315956,849,Rejected
+53,Male,Not Graduate,Salaried,36447,471240,433,Approved
+32,Female,Not Graduate,Self-Employed,140899,239728,322,Approved
+42,Male,Graduate,Self-Employed,38959,428292,645,Approved
+45,Male,Graduate,Salaried,81203,470501,601,Rejected
+47,Female,Graduate,Self-Employed,134156,166421,662,Rejected
+48,Male,Not Graduate,Salaried,24337,51605,695,Rejected
+36,Male,Not Graduate,Salaried,61427,122303,517,Approved
+35,Female,Not Graduate,Salaried,76529,208211,440,Approved
+23,Female,Not Graduate,Self-Employed,117023,237210,509,Approved
+57,Male,Graduate,Self-Employed,99665,311949,759,Approved
+27,Male,Graduate,Salaried,120787,388269,655,Approved
+41,Female,Not Graduate,Salaried,48307,194990,623,Approved
+29,Female,Graduate,Salaried,142016,208518,432,Approved
+59,Female,Graduate,Salaried,19835,174040,426,Approved
+38,Female,Not Graduate,Self-Employed,35159,194118,405,Rejected
+24,Male,Graduate,Self-Employed,136790,468034,677,Approved
+45,Female,Not Graduate,Salaried,120616,281966,350,Approved
+34,Female,Graduate,Salaried,93752,316468,328,Rejected
+29,Male,Not Graduate,Self-Employed,70284,388467,761,Approved
+46,Female,Not Graduate,Self-Employed,72043,321255,595,Rejected
+22,Male,Not Graduate,Salaried,112007,481326,596,Approved
+40,Female,Not Graduate,Salaried,97844,66389,706,Approved
+48,Female,Graduate,Salaried,42532,172177,704,Rejected
+27,Female,Not Graduate,Self-Employed,137402,353571,645,Rejected
+28,Male,Not Graduate,Self-Employed,133012,209818,719,Rejected
+55,Male,Not Graduate,Self-Employed,71178,172883,481,Approved
+34,Female,Graduate,Salaried,64407,268958,300,Approved
+37,Male,Not Graduate,Salaried,65990,288213,866,Approved
+56,Male,Graduate,Self-Employed,144473,443333,670,Approved
+24,Male,Not Graduate,Self-Employed,73141,437952,730,Rejected
+22,Male,Graduate,Salaried,71570,162221,608,Approved
+26,Male,Graduate,Self-Employed,16015,325378,436,Rejected
+24,Male,Not Graduate,Self-Employed,76813,310669,501,Approved
+49,Female,Graduate,Salaried,42712,284936,735,Approved
+38,Female,Not Graduate,Self-Employed,115497,365585,612,Approved
+46,Male,Not Graduate,Salaried,127816,50846,416,Rejected
+54,Female,Not Graduate,Salaried,143778,60954,874,Rejected
+30,Female,Graduate,Salaried,77292,391383,543,Rejected
+56,Female,Graduate,Salaried,38833,294761,836,Rejected
+34,Female,Not Graduate,Salaried,35309,358658,374,Rejected
+51,Male,Not Graduate,Salaried,21970,400380,685,Rejected
+35,Female,Graduate,Salaried,87474,409723,509,Approved
+28,Female,Not Graduate,Self-Employed,61540,187541,774,Approved
+34,Male,Not Graduate,Salaried,33017,473321,717,Approved
+43,Male,Not Graduate,Salaried,90880,354245,646,Rejected
+41,Female,Graduate,Self-Employed,120570,114323,828,Rejected
+36,Female,Graduate,Self-Employed,23702,141922,478,Approved
+38,Female,Graduate,Self-Employed,146456,239139,481,Rejected
+44,Female,Not Graduate,Salaried,15404,230448,324,Rejected
+46,Female,Not Graduate,Self-Employed,27763,226659,479,Approved
+45,Female,Not Graduate,Salaried,113142,480192,800,Approved
+49,Male,Graduate,Salaried,95642,285659,460,Rejected
+35,Female,Not Graduate,Salaried,65612,439678,476,Approved
+21,Female,Not Graduate,Salaried,38574,379728,584,Rejected
+45,Male,Not Graduate,Self-Employed,38524,154537,362,Approved
+27,Male,Not Graduate,Self-Employed,25916,390621,455,Rejected
+29,Male,Graduate,Salaried,19809,291983,768,Rejected
+44,Male,Graduate,Salaried,136288,92533,348,Rejected
+21,Female,Not Graduate,Salaried,53765,313972,383,Approved
+28,Female,Graduate,Self-Employed,60106,51917,660,Rejected
+44,Female,Graduate,Salaried,68932,332762,447,Rejected
+31,Female,Not Graduate,Salaried,72091,82254,641,Approved
+37,Female,Not Graduate,Self-Employed,36949,311987,775,Rejected
+28,Female,Graduate,Self-Employed,52744,417436,362,Approved
+55,Male,Not Graduate,Salaried,123319,97362,659,Approved
+55,Female,Graduate,Self-Employed,107193,332272,860,Approved
+53,Male,Not Graduate,Self-Employed,51187,435925,626,Approved
+25,Male,Graduate,Salaried,139454,292353,440,Approved
+59,Female,Not Graduate,Self-Employed,29489,240455,514,Rejected
+48,Male,Graduate,Salaried,76877,115545,734,Approved
+27,Female,Graduate,Self-Employed,64922,132180,617,Rejected
+29,Male,Graduate,Salaried,109074,137958,331,Approved
+28,Female,Not Graduate,Salaried,52131,453081,584,Approved
+32,Male,Graduate,Salaried,130765,445435,604,Approved
+54,Female,Graduate,Self-Employed,88963,351953,728,Rejected
+53,Female,Not Graduate,Salaried,121884,428892,776,Approved
+43,Female,Not Graduate,Self-Employed,140917,55287,585,Approved
+44,Female,Graduate,Salaried,39285,307665,443,Rejected
+57,Female,Graduate,Salaried,52626,477603,723,Approved
+55,Male,Not Graduate,Self-Employed,34198,58512,318,Approved
+42,Male,Not Graduate,Salaried,30254,182414,317,Approved
+47,Male,Not Graduate,Salaried,59238,158872,889,Rejected
+55,Female,Not Graduate,Self-Employed,16252,462432,670,Approved
+21,Male,Not Graduate,Salaried,54764,297754,474,Rejected
+55,Female,Graduate,Salaried,92709,143070,493,Approved
+57,Female,Not Graduate,Salaried,68682,129767,801,Rejected
+34,Male,Graduate,Salaried,74494,147829,412,Rejected
+23,Male,Graduate,Self-Employed,96317,469830,413,Rejected
+21,Female,Graduate,Self-Employed,80215,479474,521,Approved
+25,Male,Not Graduate,Salaried,93587,92078,563,Rejected
+46,Female,Graduate,Self-Employed,21949,418432,354,Approved
+34,Female,Graduate,Salaried,70393,133524,757,Approved
+59,Female,Not Graduate,Self-Employed,40934,277645,461,Approved
+47,Female,Graduate,Salaried,90745,62219,679,Rejected
+29,Female,Graduate,Salaried,109456,312379,386,Rejected
+35,Male,Not Graduate,Salaried,68413,355073,354,Rejected
+35,Male,Graduate,Salaried,112239,177309,775,Approved
+46,Female,Graduate,Salaried,57318,379588,477,Approved
+33,Female,Graduate,Salaried,85390,189639,690,Rejected
+52,Male,Not Graduate,Self-Employed,58088,413978,648,Approved
+59,Male,Not Graduate,Salaried,118196,246513,307,Approved
+52,Female,Not Graduate,Self-Employed,70479,396699,612,Approved
+24,Male,Graduate,Salaried,34963,385842,742,Approved
+50,Female,Graduate,Self-Employed,70123,436594,627,Approved
+57,Male,Not Graduate,Self-Employed,140911,298320,353,Approved
+43,Female,Graduate,Self-Employed,117468,186487,538,Approved
+59,Male,Graduate,Salaried,88477,217231,528,Approved
+35,Female,Not Graduate,Salaried,29388,93925,878,Rejected
+49,Male,Not Graduate,Self-Employed,20569,187023,350,Approved
+56,Male,Graduate,Salaried,84836,137388,563,Approved
+33,Female,Graduate,Self-Employed,119573,58007,717,Rejected
+52,Male,Graduate,Salaried,60002,307802,395,Approved
+27,Female,Not Graduate,Self-Employed,39071,485048,387,Rejected
+42,Male,Not Graduate,Self-Employed,73243,108596,377,Rejected
+48,Female,Not Graduate,Salaried,140827,433245,587,Approved
+22,Male,Not Graduate,Self-Employed,123215,473739,419,Approved
+26,Female,Graduate,Salaried,116570,401005,790,Rejected
+48,Male,Not Graduate,Self-Employed,84724,305266,751,Rejected
+48,Female,Not Graduate,Self-Employed,130359,398884,799,Approved
+40,Male,Not Graduate,Salaried,90697,65524,464,Approved
+50,Female,Not Graduate,Salaried,43732,462498,481,Approved
+31,Female,Not Graduate,Salaried,136465,205002,768,Rejected
+48,Female,Graduate,Self-Employed,72108,443293,306,Approved
+45,Male,Graduate,Salaried,126195,175501,629,Rejected
+59,Female,Not Graduate,Self-Employed,118081,332755,450,Approved
+53,Male,Graduate,Self-Employed,51668,198056,384,Approved
+21,Female,Not Graduate,Salaried,38061,64060,446,Approved
+47,Male,Not Graduate,Salaried,94252,264057,680,Approved
+33,Female,Graduate,Self-Employed,54749,355447,847,Approved
+23,Male,Graduate,Self-Employed,145560,240279,584,Approved
+59,Male,Not Graduate,Salaried,119680,256118,381,Approved
+26,Female,Not Graduate,Salaried,66745,210359,813,Rejected
+28,Male,Not Graduate,Salaried,123464,89711,822,Approved
+47,Male,Graduate,Salaried,106865,193026,685,Approved
+29,Female,Not Graduate,Salaried,127428,385484,770,Rejected
+57,Male,Not Graduate,Self-Employed,38624,268134,418,Rejected
+53,Male,Not Graduate,Self-Employed,38321,152974,695,Rejected
+44,Male,Graduate,Self-Employed,37574,199646,831,Rejected
+35,Female,Not Graduate,Self-Employed,133831,452400,560,Approved
+52,Male,Not Graduate,Salaried,110257,200168,555,Approved
+52,Female,Graduate,Salaried,79291,117728,525,Rejected
+44,Male,Not Graduate,Salaried,142600,215088,352,Rejected
+32,Male,Not Graduate,Self-Employed,65428,61246,799,Approved
+59,Male,Graduate,Self-Employed,146374,488774,805,Rejected
+22,Female,Not Graduate,Salaried,146127,461597,663,Approved
+23,Male,Graduate,Salaried,126317,439940,579,Approved
+57,Male,Graduate,Self-Employed,142449,479671,892,Approved
+37,Female,Not Graduate,Self-Employed,43699,142263,457,Approved
+22,Male,Not Graduate,Salaried,88686,447234,358,Approved
+22,Female,Not Graduate,Salaried,82661,61302,427,Approved
+48,Female,Not Graduate,Self-Employed,59247,379650,414,Rejected
+43,Male,Graduate,Salaried,120113,91157,508,Approved
+57,Female,Not Graduate,Salaried,19621,104917,825,Approved
+52,Male,Graduate,Salaried,33030,273810,820,Rejected
+53,Female,Not Graduate,Self-Employed,97838,146646,851,Rejected
+21,Female,Not Graduate,Self-Employed,99717,395266,536,Rejected
+39,Male,Not Graduate,Self-Employed,53638,336663,580,Rejected
+22,Female,Graduate,Self-Employed,82067,393054,658,Rejected
+46,Female,Not Graduate,Self-Employed,133033,432574,500,Approved
+52,Female,Not Graduate,Self-Employed,120977,383468,577,Approved
+26,Female,Not Graduate,Self-Employed,103869,317552,534,Approved
+52,Female,Not Graduate,Salaried,120186,109379,793,Approved
+24,Male,Graduate,Salaried,49674,75053,303,Approved
+31,Female,Not Graduate,Salaried,61271,452662,741,Rejected
+37,Male,Graduate,Salaried,88688,181994,328,Approved
+58,Female,Graduate,Salaried,126076,148723,408,Approved
+44,Male,Graduate,Salaried,16062,101356,374,Approved
+25,Male,Graduate,Salaried,65448,322933,445,Rejected
+54,Female,Graduate,Self-Employed,110462,409864,427,Approved
+26,Female,Graduate,Self-Employed,62915,378800,341,Rejected
+42,Female,Not Graduate,Salaried,19632,356172,655,Approved
+31,Male,Graduate,Salaried,119592,376628,340,Approved
+36,Female,Graduate,Self-Employed,149668,82154,333,Approved
+53,Male,Graduate,Salaried,124779,263942,316,Rejected
+29,Male,Not Graduate,Salaried,123099,314480,452,Approved
+26,Male,Not Graduate,Self-Employed,22561,415821,677,Rejected
+36,Female,Graduate,Salaried,97152,379923,887,Approved
+49,Female,Not Graduate,Self-Employed,140036,331173,898,Approved
+23,Male,Graduate,Salaried,139049,371345,641,Rejected
